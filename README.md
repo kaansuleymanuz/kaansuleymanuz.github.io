@@ -1,2 +1,2 @@
-# kaan-suleyman-uz.github.io
+# kaansuleymanuz.github.io
 Personal Academic Website
