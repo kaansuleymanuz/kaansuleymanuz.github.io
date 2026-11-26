@@ -1,3 +1,4 @@
-# Personal Academic Website – V10
+# Personal Academic Website
+V12.0 – Journal indexing added to home and publications pages.
 
-Tüm dosyalar main dalının ana dizinine yüklenmelidir. Alt klasör kullanılmaz. GitHub Pages: main / (root).
+Scopus ve YÖK Akademik profil bağlantıları güncellendi.
