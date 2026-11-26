@@ -1,5 +1,8 @@
-# kaansuleymanuz.github.io
+# Kişisel akademik web sitesi V6
+GitHub Pages için statik dosyalar. ZIP içeriğini depo köküne yükleyin.
+Web of Science ve Scopus bağlantıları geçici yazar arama sayfalarıdır; doğrudan profil adresleri doğrulanınca değiştirin. LinkedIn bağlantısı kamuya açık gönderideki kullanıcı adına dayanmaktadır.
+Ders notları ve porozite hesaplayıcısı kaldırıldı. Önceki sürüm yüklenmişse GitHub'daki simulations/porosity.html ve documents/cad.html, documents/technical-drawing.html, documents/heat-transfer.html dosyalarını ayrıca silin.
 
-Personal Academic Website — Orange theme.
+Reynolds hesaplayıcıları tek kart altında; Nusselt hesaplayıcısı ayrı kartta sunulur.
 
-GitHub Pages: main / (root). Upload all extracted files and folders to the repository root. Open index.html locally to preview.
+Isı değiştiricileri: LMTD ve ε–NTU yöntemleri ayrı seçeneklerdir.
