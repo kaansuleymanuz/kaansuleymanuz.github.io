@@ -16,3 +16,5 @@ V55: Categorized lab, bilingual unit converter, expandable course material place
 V59: 15 new calculators, approximate air/water properties, 15 typical materials, V57 teaching and V58 simulations retained. Educational approximations; not certified design data.
 
 V65: Added back/forward, laboratory return and category-aware breadcrumbs to tool pages; merged V63 simulations and V64 home.
+
+V66: Parametric sweeps for 36 calculators and Nusselt; mechanical properties; local favorites, recent use and manually saved history; offline cache; search and fullscreen. Analytics/Search Console require owner configuration.
