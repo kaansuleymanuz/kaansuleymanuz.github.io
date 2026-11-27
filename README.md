@@ -14,3 +14,5 @@ V51: V46 yayın özetleri ve etiketleri kaldırıldı; V48 animasyon bölümü S
 V55: Categorized lab, bilingual unit converter, expandable course material placeholders.
 
 V59: 15 new calculators, approximate air/water properties, 15 typical materials, V57 teaching and V58 simulations retained. Educational approximations; not certified design data.
+
+V65: Added back/forward, laboratory return and category-aware breadcrumbs to tool pages; merged V63 simulations and V64 home.
