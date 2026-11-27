@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaansuleymanuz.github.io/sitemap.xml
