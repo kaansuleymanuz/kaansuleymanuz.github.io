@@ -10,3 +10,5 @@ V41: PDF özgeçmiş bölümü ve iki CV dosyası kaldırıldı. Ana sayfadaki m
 V45: latest V42–44 merged; timeline, study summaries (not verbatim abstracts), 10 calculators, 6 schematic animations, formulas, local search, contact card, CSV and print on engineering-tools. No new citation features; publication BibTeX buttons removed. External analytics and Search Console not connected.
 
 V51: V46 yayın özetleri ve etiketleri kaldırıldı; V48 animasyon bölümü Simülasyonlar sayfasından kaldırıldı; V49 iletişim kartı ve QR bölümü kaldırıldı; V50 beyaz, şeffaf, 15 px büyüteç eklendi. enhancements.js bağlantısı önbellek yenilemesi için v=51 olarak güncellendi. Diğer içerikler korunur.
+
+V55: Categorized lab, bilingual unit converter, expandable course material placeholders.
