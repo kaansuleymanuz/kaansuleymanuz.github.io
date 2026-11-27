@@ -12,3 +12,5 @@ V45: latest V42–44 merged; timeline, study summaries (not verbatim abstracts),
 V51: V46 yayın özetleri ve etiketleri kaldırıldı; V48 animasyon bölümü Simülasyonlar sayfasından kaldırıldı; V49 iletişim kartı ve QR bölümü kaldırıldı; V50 beyaz, şeffaf, 15 px büyüteç eklendi. enhancements.js bağlantısı önbellek yenilemesi için v=51 olarak güncellendi. Diğer içerikler korunur.
 
 V55: Categorized lab, bilingual unit converter, expandable course material placeholders.
+
+V59: 15 new calculators, approximate air/water properties, 15 typical materials, V57 teaching and V58 simulations retained. Educational approximations; not certified design data.
