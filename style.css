@@ -7,3 +7,5 @@ header .wrap{position:relative}nav{border-bottom-color:#ffffff55}nav a,nav a[ari
 @media(max-width:600px){.hero{padding:25px 0 30px}header:before{width:120%}.area .card{padding:16px}}
 
 .about-intro{display:grid;grid-template-columns:160px 1fr;gap:20px;align-items:center}.about-photo{width:160px;height:160px;object-fit:cover;border-radius:50%;border:4px solid #fff;box-shadow:0 8px 24px #00000014;background:#eee}html[data-theme=dark] .about-photo{border-color:#2a211b}@media(max-width:600px){.about-intro{grid-template-columns:1fr;justify-items:start}.about-photo{width:120px;height:120px}}
+
+.timeline{list-style:none;border-left:3px solid #f97316;padding-left:24px}.timeline li{position:relative;margin:20px 0}.timeline li:before{content:"";position:absolute;left:-32px;top:5px;width:13px;height:13px;border-radius:50%;background:#f97316}.timeline strong{color:#e76c18}details{margin-top:12px}summary{cursor:pointer;font-weight:bold}@media print{header,footer,button,.controls{display:none!important}body{background:white;color:black}.card{break-inside:avoid}}

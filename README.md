@@ -6,3 +6,5 @@ Hesaplayıcılar eğitim amaçlıdır. Psikrometrik araç nem oranını hesaplar
 Ziyaretçi analitiği için ayrı bir hizmet ve kullanıcı hesabı gerekir; takip kodu eklenmemiştir. Google Scholar makale indekslemesi garanti edilmez.
 
 V41: PDF özgeçmiş bölümü ve iki CV dosyası kaldırıldı. Ana sayfadaki mevcut Özgeçmiş bağlantısı korunur. V40 daha önce yüklenmişse CV-tr.pdf ve CV-en.pdf dosyalarını GitHub deposundan ayrıca silin.
+
+V45: latest V42–44 merged; timeline, study summaries (not verbatim abstracts), 10 calculators, 6 schematic animations, formulas, local search, contact card, CSV and print on engineering-tools. No new citation features; publication BibTeX buttons removed. External analytics and Search Console not connected.
